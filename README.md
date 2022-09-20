@@ -1,1 +1,1 @@
-# Smarcle_Farm(나의 기록 저장소)
+# Smarcle_Farm(개인 기록 저장소)
